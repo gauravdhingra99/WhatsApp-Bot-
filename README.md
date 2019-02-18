@@ -1,6 +1,6 @@
 # WhatsApp-Bot-
 
-This is a simple Web WhatsApp Bot developed in python using Selenium. 
+This is a simple Web WhatsApp Bot developed in python using Selenium ,Use to Send image with text to the Contacts. 
 Selenium is used mainly for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) be automated as well.
 
 ### Requirements
